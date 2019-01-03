@@ -24,6 +24,7 @@ namespace Parish_E_Commerce
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
+                      "~/Content/bootstrap-yeti-theme.css",
                       "~/Content/site.css"));
         }
     }
